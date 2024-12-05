@@ -1,0 +1,67 @@
+/* .jj{
+    color: red; 
+    background-color: aqua;
+    border: solid black 5px;
+    border-radius: 10px;
+} */
+
+/* .ph{
+   width: 100%;
+    height: 150px;
+} */
+
+/* .cover-photo{
+background-image: url("./images/VariationofDALLE2generationofaportraitpaintingofSalvadorDaliwitharobotichalfface7.webp");
+background-size: cover;
+background-position: center;
+height: 450px;
+}  */
+
+/* padding , margin , text-align , width  :::::  */
+
+/* #wel {
+  border: solid 1px;
+  background-color: aqua;
+  width: 30%;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-top: 80px;
+  padding-right: 350px;
+  padding-bottom: 80px;
+  padding-left: 350px;
+} */
+
+
+  /* padding: 10px;   he take 10px in the four directions  */
+  /* padding: 20px 100px;  he take 20px from top and bottom && 100px from left and right */
+  /* padding: 80px 350px 80px 350px;   like direction of clock */
+
+
+  /* .welcome{
+    text-align: center;
+    font-size: 50px;
+   text-transform: uppercase;
+   letter-spacing: 10px;
+   font-family: "Edu AU VIC WA NT Arrows", cursive;
+   font-optical-sizing: auto;
+   text-shadow: 10px 10px 8px rgb(194, 28, 28);
+
+  } */
+
+  /* .btn {
+    font-size: 50px;
+
+  } */
+
+  /* .link{
+    font-size: 50px;
+    margin-left: 350px;
+     text-decoration: none;
+  } */
+
+  /* .btn {
+    cursor: pointer;
+  } */
